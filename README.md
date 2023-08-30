@@ -42,7 +42,7 @@ in a distributed environment.</p>
 
 <h4> Configuration service</h4>
 
-<p>this component of microservices architecture centralizes 
+<p>This component of microservices architecture centralizes 
 and manages configuration settings for various services. 
 It allows you to store configuration details separately 
 from your codebase and dynamically fetch 
@@ -50,7 +50,7 @@ and distribute these configurations to different microservices.</p>
 
 <h4> API gateway </h4>
 
-<p>this component is a central entry point for a microservices 
+<p>This component is a central entry point for a microservices 
 architecture, efficiently directing and managing incoming 
 requests from clients to various underlying services.</p>
 
